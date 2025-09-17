@@ -1,0 +1,6 @@
+{
+"rewrites":[
+    {"source": "/api/:path*", 
+    "destination": "https://lista-produtos-backend-sheronbray.onrender.com"}
+]
+}
